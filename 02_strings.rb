@@ -72,7 +72,7 @@ puts nome
 
 nome.downcase! # Transformando texto em minúsculo
 puts nome
-nome.capitalize! # Primeiras letras em maiúsculo
+nome.capitalize! # Primeira letra em maiúsculo
 puts nome
 nome.swapcase! # Troca de maiúsculo por minúsculo
 puts nome
