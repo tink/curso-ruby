@@ -94,3 +94,5 @@ puts titulo.reverse # Inverte a ordem do texto
 "Não Vazia".empty? # Verifica se a string é vazia
 " ".empty?
 "".empty?
+
+"Essa string será dividida".split # Separando cada palavra em um elemento de um Array
