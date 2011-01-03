@@ -18,7 +18,7 @@ puts dados['idade']
 dados = {'nome' => 'Anderson', 'sobrenome' => 'Dias'}
 puts dados.keys # Retorna um array com as chaves do hash
 puts dados.value # Retorna um array com os valores
-puts dados.lenght # Retorna a quantidade de elementos
+puts dados.length # Retorna a quantidade de elementos
 
 puts a.key? 'nome' # Verifica se o hash contém a chave passada
 puts a.has_key? :nome # Alias
